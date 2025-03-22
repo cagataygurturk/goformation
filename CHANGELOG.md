@@ -1,5 +1,12 @@
 # GoFormation Versioning Changelog
 
+## [7.14.11](https://github.com/cagataygurturk/goformation/compare/v7.14.10...v7.14.11) (2025-03-22)
+
+
+### Bug Fixes
+
+* **schema:** CloudFormation Updates ([0dcff2c](https://github.com/cagataygurturk/goformation/commit/0dcff2cbfb918ce86e979cd9b1a54f1530c813de))
+
 ## [7.14.9](https://github.com/awslabs/goformation/compare/v7.14.8...v7.14.9) (2024-04-27)
 
 
